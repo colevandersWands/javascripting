@@ -1,4 +1,4 @@
-# Methoding
+# JavaScripting
 
 So far we've taken a deep look inside programming & JavaScript while using a minimal amount of javascript's powerful built-in features. This lesson is a chance to explore the best of what JS has to offer before moving on to Solution Design where these tools will shine.
 

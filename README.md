@@ -13,6 +13,7 @@ JavaScript.info:
 * [Methods of Primitives](https://javascript.info/primitives-methods)
 * [Strings](https://javascript.info/string)
 * [Native Array Methods](https://javascript.info/array-methods#tasks)
+* [Symbols](http://javascript.info/symbol)  
 * [Iterables](https://javascript.info/iterable)
 * [Object.keys, values, entries](https://javascript.info/keys-values-entries)
 * [Destructuring](https://javascript.info/destructuring-assignment)
